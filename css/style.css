@@ -1,0 +1,32 @@
+
+/* 
+    Created on : 
+    Author     : 
+*/
+
+body{
+    background-color: rgb(17,43,51);
+    color: rgb(109,172,188);
+}
+
+.header{
+    margin-top:3%;
+}
+
+.post{
+    margin-top:5%;
+}
+
+.footer{
+    margin-top:5%;
+}
+
+.footerLinks a{
+    margin-left:5%;
+}
+
+.logout{
+	
+}
+
+
